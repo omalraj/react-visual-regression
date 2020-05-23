@@ -1,0 +1,13 @@
+[
+  {
+    "domain": "localhost",
+    "path": "/",
+    "name": "COOKIE_KEY",
+    "value": "COOKIE_VALUE",
+    "hostOnly": false,
+    "httpOnly": true,
+    "secure": true,
+    "session": true,
+    "sameSite": "no_restriction"
+  }
+]
